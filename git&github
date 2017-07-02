@@ -4,5 +4,6 @@ git init
 #git add README.md
 git add -A
 git commit -m "first commit"
+#要設定與遠程倉庫的關係
 git remote add origin https://github.com/Cyanobacteria/notes.git
 git push -u origin master
